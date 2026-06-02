@@ -149,23 +149,27 @@ Grafana Dashboard
 
 ![PLC Logic](Screenshots/plc-logic.png)
 
+
 ### Node.js Terminal Output
 
 ![Node Output](Screenshots/node-terminal-output.png)
 ![Node Output](Screenshots/node-app-code.png)
 
+
 ### Express Dashboard
 
 ![Express Dashboard](Screenshots/express-ui.png)
 
+
 ### InfluxDB Data Explorer
 
-![InfluxDB](Screenshots/influxDB1.png)
+![InfluxDB](Screenshots/InfluxDB1.png)
 ![InfluxDB](Screenshots/influxDB2.png)
+
 
 ### Grafana Dashboard
 
-![Grafana Dashboard](Screenshots/grafana-dashboard.png)
+![Grafana Dashboard](Screenshots/grafana-dashboard.jpg)
 ![Grafana Dashboard](Screenshots/grafana-server.png)
 
 ---
