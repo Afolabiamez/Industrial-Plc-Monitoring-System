@@ -1,0 +1,19 @@
+{
+  "name": "pump-monitor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@influxdata/influxdb-client": "^1.35.0",
+    "@influxdata/influxdb3-client": "^2.2.0",
+    "express": "^5.2.1",
+    "mcprotocol": "^0.1.2"
+  }
+}
